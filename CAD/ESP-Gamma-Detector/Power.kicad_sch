@@ -1,0 +1,58 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid df9400b0-2de2-4186-a626-2bf8fcd7d2bf)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (wire (pts (xy 104.14 88.9) (xy 107.95 88.9))
+    (stroke (width 0) (type default))
+    (uuid 9840d716-5de2-451f-8b89-0ece35458178)
+  )
+
+  (hierarchical_label "BOOST_SHDN" (shape input) (at 104.14 88.9 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid e8e46b30-6fcc-4892-aa8a-372ca28ccbfb)
+  )
+
+  (sheet (at 107.95 69.85) (size 63.5 7.62) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 897d0b6f-942d-44e8-8df3-dd254b30a078)
+    (property "Sheetname" "LINEAR_REG" (at 107.95 69.1384 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "LINEAR_REG.kicad_sch" (at 107.95 78.0546 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "aqsense_cheapass"
+        (path "/51bbc301-ea4a-44e0-84a7-cf42c64443ca/9cb5e054-a8b2-4c7a-8d21-943297e472bd" (page "7"))
+      )
+    )
+  )
+
+  (sheet (at 107.95 85.09) (size 64.77 7.62) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid f0a7a06a-0fcc-4a3e-badf-350f96d07356)
+    (property "Sheetname" "LMR64010XMFX_boost" (at 107.95 84.3784 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "LMR64010XMFX_boost.kicad_sch" (at 107.95 93.2946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (pin "SHDN" input (at 107.95 88.9 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid 4c09fb30-c149-4ded-aee5-0a8a7926950d)
+    )
+    (instances
+      (project "aqsense_cheapass"
+        (path "/51bbc301-ea4a-44e0-84a7-cf42c64443ca/9cb5e054-a8b2-4c7a-8d21-943297e472bd" (page "8"))
+      )
+    )
+  )
+)
