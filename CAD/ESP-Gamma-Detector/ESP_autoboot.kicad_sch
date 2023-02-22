@@ -184,7 +184,7 @@
     (pin "4" (uuid 7ae91900-fde6-468e-af0b-72e4a6b7a2de))
     (pin "5" (uuid abb60fff-1012-46b3-842a-1f90229be814))
     (instances
-      (project "aqsense_cheapass"
+      (project "ESP-Gamma-Detector"
         (path "/51bbc301-ea4a-44e0-84a7-cf42c64443ca"
           (reference "Q4") (unit 2)
         )
@@ -222,7 +222,7 @@
     (pin "4" (uuid d39bb39c-0a5b-46bb-ae52-7425c08e77b3))
     (pin "5" (uuid f398de88-d2d5-455f-9cf6-8ea725979ffa))
     (instances
-      (project "aqsense_cheapass"
+      (project "ESP-Gamma-Detector"
         (path "/51bbc301-ea4a-44e0-84a7-cf42c64443ca"
           (reference "Q4") (unit 1)
         )

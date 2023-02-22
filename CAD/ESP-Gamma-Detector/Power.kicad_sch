@@ -29,7 +29,7 @@
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
-      (project "aqsense_cheapass"
+      (project "ESP-Gamma-Detector"
         (path "/51bbc301-ea4a-44e0-84a7-cf42c64443ca/9cb5e054-a8b2-4c7a-8d21-943297e472bd" (page "7"))
       )
     )
@@ -50,7 +50,7 @@
       (uuid 4c09fb30-c149-4ded-aee5-0a8a7926950d)
     )
     (instances
-      (project "aqsense_cheapass"
+      (project "ESP-Gamma-Detector"
         (path "/51bbc301-ea4a-44e0-84a7-cf42c64443ca/9cb5e054-a8b2-4c7a-8d21-943297e472bd" (page "8"))
       )
     )

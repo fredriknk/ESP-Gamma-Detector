@@ -370,6 +370,10 @@
     [
       "47e335a8-3e50-4b71-b8fd-14f2b24805b1",
       "ADC"
+    ],
+    [
+      "f6f7d9f5-d5c3-4db2-9b62-c43ca2fdda1c",
+      "ADS8075"
     ]
   ],
   "text_variables": {}

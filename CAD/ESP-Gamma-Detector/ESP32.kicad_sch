@@ -1071,7 +1071,7 @@
     (pin "1" (uuid ecdcd996-710e-4f09-8f46-82a680570504))
     (pin "2" (uuid 9cc89721-7df6-4f83-91c9-d6d8f0a35f72))
     (instances
-      (project "aqsense_cheapass"
+      (project "ESP-Gamma-Detector"
         (path "/51bbc301-ea4a-44e0-84a7-cf42c64443ca/3e1dcb04-d5cd-4709-8d55-01e3629ee6cd"
           (reference "Y1") (unit 1)
         )
@@ -1096,7 +1096,7 @@
     )
     (pin "1" (uuid e8c0fe9a-7f45-4d54-9699-84c1d8bbbbe4))
     (instances
-      (project "aqsense_cheapass"
+      (project "ESP-Gamma-Detector"
         (path "/51bbc301-ea4a-44e0-84a7-cf42c64443ca"
           (reference "#PWR046") (unit 1)
         )
@@ -1139,7 +1139,7 @@
     (pin "1" (uuid 32e72133-7e21-41da-aee0-ec9c751f8d94))
     (pin "2" (uuid 00f25192-6f24-475a-9753-0bdce1a29a90))
     (instances
-      (project "aqsense_cheapass"
+      (project "ESP-Gamma-Detector"
         (path "/51bbc301-ea4a-44e0-84a7-cf42c64443ca"
           (reference "R21") (unit 1)
         )
@@ -1175,7 +1175,7 @@
     )
     (pin "1" (uuid 8f87e658-d603-4ad6-92f2-67a93ad063f9))
     (instances
-      (project "aqsense_cheapass"
+      (project "ESP-Gamma-Detector"
         (path "/51bbc301-ea4a-44e0-84a7-cf42c64443ca"
           (reference "#PWR030") (unit 1)
         )
@@ -1211,7 +1211,7 @@
     )
     (pin "1" (uuid 2f61afa6-2956-464f-9043-9b7937a1c903))
     (instances
-      (project "aqsense_cheapass"
+      (project "ESP-Gamma-Detector"
         (path "/51bbc301-ea4a-44e0-84a7-cf42c64443ca"
           (reference "#PWR049") (unit 1)
         )
@@ -1244,7 +1244,7 @@
     )
     (pin "1" (uuid 7ec5a435-0969-46b0-8c9f-fdc09bcf911e))
     (instances
-      (project "aqsense_cheapass"
+      (project "ESP-Gamma-Detector"
         (path "/51bbc301-ea4a-44e0-84a7-cf42c64443ca"
           (reference "#PWR050") (unit 1)
         )
@@ -1287,7 +1287,7 @@
     (pin "1" (uuid 04c9840c-9947-449f-9d48-83acb6488b93))
     (pin "2" (uuid 2b0aad87-fff8-42bc-a017-0ca1ce9bd298))
     (instances
-      (project "aqsense_cheapass"
+      (project "ESP-Gamma-Detector"
         (path "/51bbc301-ea4a-44e0-84a7-cf42c64443ca"
           (reference "R29") (unit 1)
         )
@@ -1330,7 +1330,7 @@
     (pin "1" (uuid 7f226771-02bb-4f8c-84d0-e856c3d3a3ec))
     (pin "2" (uuid 7dda4a4b-2e38-46c0-85fa-e330a9f68911))
     (instances
-      (project "aqsense_cheapass"
+      (project "ESP-Gamma-Detector"
         (path "/51bbc301-ea4a-44e0-84a7-cf42c64443ca"
           (reference "R24") (unit 1)
         )
@@ -1376,7 +1376,7 @@
     (pin "1" (uuid c6959728-5bd0-40c6-b5d0-c9e5d1c00c50))
     (pin "2" (uuid 68349401-895d-4886-94fc-cb4fca961880))
     (instances
-      (project "aqsense_cheapass"
+      (project "ESP-Gamma-Detector"
         (path "/51bbc301-ea4a-44e0-84a7-cf42c64443ca"
           (reference "C19") (unit 1)
         )
@@ -1419,7 +1419,7 @@
     (pin "1" (uuid 43bf5af7-5895-4363-8d8f-49e7f623cc9b))
     (pin "2" (uuid 81d9f329-0895-4385-984d-aeccc7f5654f))
     (instances
-      (project "aqsense_cheapass"
+      (project "ESP-Gamma-Detector"
         (path "/51bbc301-ea4a-44e0-84a7-cf42c64443ca"
           (reference "C14") (unit 1)
         )
@@ -1452,7 +1452,7 @@
     )
     (pin "1" (uuid aa1ff0f8-6fe0-4063-bb52-df36ab970a2d))
     (instances
-      (project "aqsense_cheapass"
+      (project "ESP-Gamma-Detector"
         (path "/51bbc301-ea4a-44e0-84a7-cf42c64443ca"
           (reference "#PWR018") (unit 1)
         )
@@ -1485,7 +1485,7 @@
     )
     (pin "1" (uuid 0b58d04c-b3db-445b-9c0c-afd093912953))
     (instances
-      (project "aqsense_cheapass"
+      (project "ESP-Gamma-Detector"
         (path "/51bbc301-ea4a-44e0-84a7-cf42c64443ca"
           (reference "#PWR043") (unit 1)
         )
@@ -1518,7 +1518,7 @@
     )
     (pin "1" (uuid bf19c3f9-1d7b-455e-b173-8caca8f67468))
     (instances
-      (project "aqsense_cheapass"
+      (project "ESP-Gamma-Detector"
         (path "/51bbc301-ea4a-44e0-84a7-cf42c64443ca"
           (reference "#PWR015") (unit 1)
         )
@@ -1561,7 +1561,7 @@
     (pin "1" (uuid b9fdf29c-4210-4501-9adb-2cf7807a412f))
     (pin "2" (uuid a4eb55f1-f169-4d77-8928-f4b38cebf869))
     (instances
-      (project "aqsense_cheapass"
+      (project "ESP-Gamma-Detector"
         (path "/51bbc301-ea4a-44e0-84a7-cf42c64443ca"
           (reference "R31") (unit 1)
         )
@@ -1594,7 +1594,7 @@
     )
     (pin "1" (uuid ea684fc5-21f4-4708-8606-d6dfc7dcb0d2))
     (instances
-      (project "aqsense_cheapass"
+      (project "ESP-Gamma-Detector"
         (path "/51bbc301-ea4a-44e0-84a7-cf42c64443ca"
           (reference "#PWR047") (unit 1)
         )
@@ -1637,7 +1637,7 @@
     (pin "1" (uuid 22a43bcf-ba16-4fd7-8ab5-d8ba3fdd4b86))
     (pin "2" (uuid f2b399bf-3605-4cb4-b9cd-e32211a920f9))
     (instances
-      (project "aqsense_cheapass"
+      (project "ESP-Gamma-Detector"
         (path "/51bbc301-ea4a-44e0-84a7-cf42c64443ca"
           (reference "SW2") (unit 1)
         )
@@ -1680,7 +1680,7 @@
     (pin "1" (uuid 707ce273-6a70-4bc9-a77f-4aa760b2fa30))
     (pin "2" (uuid 21562eaa-f411-4746-83ee-05d87607f0d8))
     (instances
-      (project "aqsense_cheapass"
+      (project "ESP-Gamma-Detector"
         (path "/51bbc301-ea4a-44e0-84a7-cf42c64443ca"
           (reference "C18") (unit 1)
         )
@@ -1723,7 +1723,7 @@
     (pin "1" (uuid 3d088dab-877b-4375-8037-5424352a2c49))
     (pin "2" (uuid ce96a11e-50cd-4ef3-85d0-d99d26db2d64))
     (instances
-      (project "aqsense_cheapass"
+      (project "ESP-Gamma-Detector"
         (path "/51bbc301-ea4a-44e0-84a7-cf42c64443ca"
           (reference "D10") (unit 1)
         )
@@ -1756,7 +1756,7 @@
     )
     (pin "1" (uuid f7a9778b-9a18-423a-8e68-b0bcc30bc4e5))
     (instances
-      (project "aqsense_cheapass"
+      (project "ESP-Gamma-Detector"
         (path "/51bbc301-ea4a-44e0-84a7-cf42c64443ca"
           (reference "#PWR044") (unit 1)
         )
@@ -1789,7 +1789,7 @@
     )
     (pin "1" (uuid d1dd8e48-5c17-4f3f-a8ca-6a326de056b0))
     (instances
-      (project "aqsense_cheapass"
+      (project "ESP-Gamma-Detector"
         (path "/51bbc301-ea4a-44e0-84a7-cf42c64443ca"
           (reference "#PWR043") (unit 1)
         )
@@ -1832,7 +1832,7 @@
     (pin "1" (uuid 62dee885-e104-420d-b852-5a7597ef5e67))
     (pin "2" (uuid 510d1223-6bd0-42c5-8ad8-0476c8014810))
     (instances
-      (project "aqsense_cheapass"
+      (project "ESP-Gamma-Detector"
         (path "/51bbc301-ea4a-44e0-84a7-cf42c64443ca"
           (reference "C11") (unit 1)
         )
@@ -1875,7 +1875,7 @@
     (pin "1" (uuid 61981db8-1872-419e-84cc-3223cfcea648))
     (pin "2" (uuid af738331-a7cb-4246-ae64-b2da604642e1))
     (instances
-      (project "aqsense_cheapass"
+      (project "ESP-Gamma-Detector"
         (path "/51bbc301-ea4a-44e0-84a7-cf42c64443ca"
           (reference "D11") (unit 1)
         )
@@ -1908,7 +1908,7 @@
     )
     (pin "1" (uuid d38e04c6-25c9-41da-a88f-08494ca5eba8))
     (instances
-      (project "aqsense_cheapass"
+      (project "ESP-Gamma-Detector"
         (path "/51bbc301-ea4a-44e0-84a7-cf42c64443ca"
           (reference "#PWR07") (unit 1)
         )
@@ -1941,7 +1941,7 @@
     )
     (pin "1" (uuid a25ce259-9f4d-4cfb-a303-48bc828f9435))
     (instances
-      (project "aqsense_cheapass"
+      (project "ESP-Gamma-Detector"
         (path "/51bbc301-ea4a-44e0-84a7-cf42c64443ca"
           (reference "#PWR043") (unit 1)
         )
@@ -1984,7 +1984,7 @@
     (pin "1" (uuid eeef2b27-947c-47f0-808b-a44302eb4d87))
     (pin "2" (uuid a36842c2-517a-4e58-9804-eb24ddc30e4b))
     (instances
-      (project "aqsense_cheapass"
+      (project "ESP-Gamma-Detector"
         (path "/51bbc301-ea4a-44e0-84a7-cf42c64443ca"
           (reference "R21") (unit 1)
         )
@@ -2020,7 +2020,7 @@
     )
     (pin "1" (uuid 17f79058-edbe-4970-aab7-9aac1ba217cc))
     (instances
-      (project "aqsense_cheapass"
+      (project "ESP-Gamma-Detector"
         (path "/51bbc301-ea4a-44e0-84a7-cf42c64443ca"
           (reference "#PWR026") (unit 1)
         )
@@ -2066,7 +2066,7 @@
     (pin "1" (uuid 91056c75-e6b8-4645-a52c-7977b107b74b))
     (pin "2" (uuid 63413837-6921-4228-b709-c6e2ec96d509))
     (instances
-      (project "aqsense_cheapass"
+      (project "ESP-Gamma-Detector"
         (path "/51bbc301-ea4a-44e0-84a7-cf42c64443ca"
           (reference "R2") (unit 1)
         )
@@ -2099,7 +2099,7 @@
     )
     (pin "1" (uuid 4dc6288f-8ea4-4cae-905e-8780633d546b))
     (instances
-      (project "aqsense_cheapass"
+      (project "ESP-Gamma-Detector"
         (path "/51bbc301-ea4a-44e0-84a7-cf42c64443ca"
           (reference "#PWR019") (unit 1)
         )
@@ -2142,7 +2142,7 @@
     (pin "1" (uuid 6ab295fe-54ed-45ae-82fd-fb1af11f364c))
     (pin "2" (uuid e6759f23-8915-4dc6-b13e-56fa5aa20673))
     (instances
-      (project "aqsense_cheapass"
+      (project "ESP-Gamma-Detector"
         (path "/51bbc301-ea4a-44e0-84a7-cf42c64443ca"
           (reference "C18") (unit 1)
         )
@@ -2185,7 +2185,7 @@
     (pin "1" (uuid ce27062a-dd90-4fad-80fb-d19a097076a0))
     (pin "2" (uuid 6d57c98a-ef86-4cc9-aabb-71d40e2a4d4d))
     (instances
-      (project "aqsense_cheapass"
+      (project "ESP-Gamma-Detector"
         (path "/51bbc301-ea4a-44e0-84a7-cf42c64443ca"
           (reference "SW1") (unit 1)
         )
@@ -2218,7 +2218,7 @@
     )
     (pin "1" (uuid f7063bbf-74c9-4040-bd88-8e6cecafbed7))
     (instances
-      (project "aqsense_cheapass"
+      (project "ESP-Gamma-Detector"
         (path "/51bbc301-ea4a-44e0-84a7-cf42c64443ca"
           (reference "#PWR045") (unit 1)
         )
@@ -2261,7 +2261,7 @@
     (pin "1" (uuid 1f622bc3-628a-4320-88f7-5d4c3400cef7))
     (pin "2" (uuid 36186dde-7a41-46e1-9878-87121f37738a))
     (instances
-      (project "aqsense_cheapass"
+      (project "ESP-Gamma-Detector"
         (path "/51bbc301-ea4a-44e0-84a7-cf42c64443ca"
           (reference "R30") (unit 1)
         )
@@ -2304,7 +2304,7 @@
     (pin "1" (uuid a8a784d3-8da2-4688-8f69-60a6b5954efa))
     (pin "2" (uuid 197a56b2-0ca6-411c-a098-6644130acd46))
     (instances
-      (project "aqsense_cheapass"
+      (project "ESP-Gamma-Detector"
         (path "/51bbc301-ea4a-44e0-84a7-cf42c64443ca"
           (reference "C18") (unit 1)
         )
@@ -2337,7 +2337,7 @@
     )
     (pin "1" (uuid dfe50414-8c30-4094-9809-c0915b1b3524))
     (instances
-      (project "aqsense_cheapass"
+      (project "ESP-Gamma-Detector"
         (path "/51bbc301-ea4a-44e0-84a7-cf42c64443ca"
           (reference "#PWR08") (unit 1)
         )
@@ -2417,7 +2417,7 @@
     (pin "8" (uuid 2d7e60d3-9524-46c5-8947-cc8c89a9e265))
     (pin "9" (uuid 42a7bdda-4270-4169-bc82-79645e938a58))
     (instances
-      (project "aqsense_cheapass"
+      (project "ESP-Gamma-Detector"
         (path "/51bbc301-ea4a-44e0-84a7-cf42c64443ca"
           (reference "U1") (unit 1)
         )

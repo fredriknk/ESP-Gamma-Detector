@@ -308,7 +308,7 @@
     (pin "1" (uuid b4f28f83-cdc2-45ee-95b0-6cbfbd572f65))
     (pin "2" (uuid 7913412d-3ebd-4e19-aa26-d0c498fe043e))
     (instances
-      (project "aqsense_cheapass"
+      (project "ESP-Gamma-Detector"
         (path "/51bbc301-ea4a-44e0-84a7-cf42c64443ca"
           (reference "C2") (unit 1)
         )
@@ -344,7 +344,7 @@
     )
     (pin "1" (uuid 4a539829-4ced-4c3f-a552-5bde283bbfec))
     (instances
-      (project "aqsense_cheapass"
+      (project "ESP-Gamma-Detector"
         (path "/51bbc301-ea4a-44e0-84a7-cf42c64443ca"
           (reference "#PWR013") (unit 1)
         )
@@ -390,7 +390,7 @@
     (pin "1" (uuid 6329fe27-8d50-49fd-a093-5624de4e9d69))
     (pin "2" (uuid fece54f5-07b8-4226-b69a-183926b93da3))
     (instances
-      (project "aqsense_cheapass"
+      (project "ESP-Gamma-Detector"
         (path "/51bbc301-ea4a-44e0-84a7-cf42c64443ca"
           (reference "C5") (unit 1)
         )
@@ -426,7 +426,7 @@
     )
     (pin "1" (uuid 091414e2-5e0d-4dc0-80f0-2163c7b72dc4))
     (instances
-      (project "aqsense_cheapass"
+      (project "ESP-Gamma-Detector"
         (path "/51bbc301-ea4a-44e0-84a7-cf42c64443ca"
           (reference "#PWR05") (unit 1)
         )
@@ -473,7 +473,7 @@
     (pin "2" (uuid 144960f5-f9c4-4692-be4a-5050872fac32))
     (pin "3" (uuid 88cc05a3-89ea-4093-8b9f-e46bacb97756))
     (instances
-      (project "aqsense_cheapass"
+      (project "ESP-Gamma-Detector"
         (path "/51bbc301-ea4a-44e0-84a7-cf42c64443ca"
           (reference "U2") (unit 1)
         )
@@ -509,7 +509,7 @@
     )
     (pin "1" (uuid 4e7dec5f-09d1-4e8b-8f18-d759bd70d387))
     (instances
-      (project "aqsense_cheapass"
+      (project "ESP-Gamma-Detector"
         (path "/51bbc301-ea4a-44e0-84a7-cf42c64443ca"
           (reference "#PWR06") (unit 1)
         )
@@ -545,7 +545,7 @@
     )
     (pin "1" (uuid 2ee97009-f5a1-4db1-af62-61b3f2e159c6))
     (instances
-      (project "aqsense_cheapass"
+      (project "ESP-Gamma-Detector"
         (path "/51bbc301-ea4a-44e0-84a7-cf42c64443ca"
           (reference "#PWR014") (unit 1)
         )
@@ -581,7 +581,7 @@
     )
     (pin "1" (uuid 12251815-0588-46d5-8be1-57ac11d956fc))
     (instances
-      (project "aqsense_cheapass"
+      (project "ESP-Gamma-Detector"
         (path "/51bbc301-ea4a-44e0-84a7-cf42c64443ca"
           (reference "#PWR011") (unit 1)
         )
